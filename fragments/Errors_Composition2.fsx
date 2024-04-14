@@ -1,0 +1,9 @@
+let functionA : FunctionA = ...
+let functionB : FunctionB = ...
+let functionC : FunctionC = ...
+
+let functionABC input =
+  input
+  |> functionA
+  |> Result.bind functionB
+  |> Result.bind functionC

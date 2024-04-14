@@ -1,0 +1,1 @@
+type NextRandom = unit -> int

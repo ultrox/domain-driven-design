@@ -1,0 +1,2 @@
+type SendOrderAcknowledgment =
+  OrderAcknowledgment -> bool

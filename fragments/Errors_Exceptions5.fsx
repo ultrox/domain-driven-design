@@ -1,0 +1,2 @@
+checkAddressExists : 
+  UnvalidatedAddress -> CheckedAddress

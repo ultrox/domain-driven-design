@@ -1,0 +1,6 @@
+// low-level helper functions
+let toAddress checkAddressExists unvalidatedAddress =
+  ...
+
+let toProductCode checkProductCodeExists productCode = 
+  ...

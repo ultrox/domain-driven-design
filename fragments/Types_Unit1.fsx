@@ -1,0 +1,1 @@
+type SaveCustomer = Customer -> unit

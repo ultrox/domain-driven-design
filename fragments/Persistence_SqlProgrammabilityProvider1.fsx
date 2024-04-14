@@ -1,0 +1,1 @@
+type Db = SqlProgrammabilityProvider<CompileTimeConnectionString>

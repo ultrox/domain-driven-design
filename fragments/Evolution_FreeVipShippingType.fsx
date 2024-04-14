@@ -1,0 +1,2 @@
+type FreeVipShipping = 
+  PricedOrderWithShippingMethod -> PricedOrderWithShippingMethod

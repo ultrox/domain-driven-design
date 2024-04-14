@@ -1,0 +1,1 @@
+type CheckProductCodeExists = ProductCode -> bool

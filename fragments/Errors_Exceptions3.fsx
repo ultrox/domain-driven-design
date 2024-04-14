@@ -1,0 +1,6 @@
+let serviceExceptionAdapter2 serviceInfo serviceFn x y =
+  try 
+    Ok (serviceFn x y)
+  with
+  | :? TimeoutException as ex -> ...
+  | :? AuthorizationException as ex -> ...

@@ -1,0 +1,1 @@
+type PlaceOrder = Command<UnvalidatedOrder>

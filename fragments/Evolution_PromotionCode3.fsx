@@ -1,0 +1,9 @@
+let validateOrder unvalidatedOrder = 
+
+  let orderIdResult = ...
+  ...
+
+  // new field
+  let promotionCodeResult = 
+    PromotionCode.create unvalidatedOrder.PromotionCode
+  ...

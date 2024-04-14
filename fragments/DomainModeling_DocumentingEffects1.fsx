@@ -1,0 +1,1 @@
+type ValidateOrder = UnvalidatedOrder -> ValidatedOrder

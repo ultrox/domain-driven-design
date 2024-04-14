@@ -1,0 +1,6 @@
+let placeOrder unvalidatedOrder = result {
+  let! validatedOrder = validateOrder unvalidatedOrder
+  let! pricedOrder = priceOrder validatedOrder
+  ...
+  return ...
+  }

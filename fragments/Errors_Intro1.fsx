@@ -1,0 +1,2 @@
+type CheckAddressExists = 
+  UnvalidatedAddress -> CheckedAddress

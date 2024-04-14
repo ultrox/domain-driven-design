@@ -1,0 +1,1 @@
+type CalculatePrices = CalculatePricesInput -> PricedOrder

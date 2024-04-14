@@ -1,0 +1,2 @@
+type GetProductPrice = 
+  ProductCode -> Price

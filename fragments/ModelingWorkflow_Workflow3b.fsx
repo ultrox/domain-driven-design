@@ -1,0 +1,2 @@
+type CreateOrderAcknowledgmentLetter =
+  PricedOrder -> HtmlString

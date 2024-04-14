@@ -1,0 +1,3 @@
+[<CompilationRepresentation(CompilationRepresentationFlags.ModuleSuffix)>]
+module OrderId =
+  ...
